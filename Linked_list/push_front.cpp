@@ -1,3 +1,4 @@
+// push_front adds at staarting
 #include <bits/stdc++.h>
 using namespace std;
 
