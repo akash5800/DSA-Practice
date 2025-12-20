@@ -1,0 +1,26 @@
+# Ignore compiled binaries and build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# VS Code
+.vscode/
+
+# Build folders
+bin/
+build/
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# temp / backup
+~$*
+*.bak
+
+# C++ temporary
+*.exe~
